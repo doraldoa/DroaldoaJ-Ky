@@ -27,8 +27,8 @@ interests:
 
 education:
   courses:
-    - course: 机械设计制造及其自动化
-    institution: 湖南大学
+    - course: mechanical
+    institution: Hunan University
     year: 2017
 
 # Social/Academic Networking
